@@ -8,6 +8,7 @@
     </a>
 	<p align="left"> <img src="https://komarev.com/ghpvc/?username=lvezdi&label=Profile%20views&color=0e75b6&style=flat">
 		<p>I am a passionate programming student at 42 Madrid, where I have had the opportunity to work on challenging projects and collaborate in teams. My focus is on constantly learning and acquiring new skills.</p>
+	<p>- 📫 How to reach me: lauraveez@hotmail.com</p>
 </div>
 <div>
 <h4>GitHub Stats: </h4>
