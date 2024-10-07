@@ -12,6 +12,11 @@
 </div>
 <div>
 <h4>GitHub Stats: </h4>
-    <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=lvezdi&show_icons=true&locale=en&theme=synthwave" alt="lvezdi" />
-    <img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lvezdi&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="lvezdi" />
+## Stats
+
+<a> 
+    <a href="https://github.com/lvezdi"><img alt="Laura Vez's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lvezdi&show_icons=true&include_all_commits=true&theme=synthwave&card_width=300" height="180px"/></a>
+    <a href="https://github.com/lvezdi"><img alt="Laura Vez's Most Used Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lvezdi&langs_count=8&layout=compact&hide=Roff,Objective-C,Makefile&theme=vision-friendly-synthwave&card_width=300" height="180px"/></a>
+    <br/>
+</a>
 </div>
